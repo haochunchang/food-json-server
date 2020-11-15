@@ -1,12 +1,11 @@
 {
   "posts": [
-    { "name": "Soba", "category": "main food", "url": "https://i.ibb.co/vJ7xbtR/soba.jpg" },
+    { "name": "Soba", "category": "main food", "url": "https://i.ibb.co/PM5jk43/soba.jpg" },
     { "name": "Rice", "category": "main food", "url": "https://i.ibb.co/xXfdn88/rice.jpg" },
     { "name": "Pizza", "category": "main food", "url": "https://i.ibb.co/YtkrjWH/pizza.jpg" },
     { "name": "Noodle", "category": "main food", "url": "https://i.ibb.co/fDWh9pW/noodle.jpg" },
     { "name": "Sushi", "category": "main food", "url": "https://i.ibb.co/hFtyCBj/sushi.jpg" },
     { "name": "Bread", "category": "main food", "url": "https://i.ibb.co/2gVmNc1/bread.jpg" },
-    { "name": "Taro", "category": "main food", "url": "https://i.ibb.co/vJ7xbtR/soba.jpg" },
     { "name": "Potato", "category": "main food", "url": "https://i.ibb.co/MsYDVV7/potato.jpg" },
     { "name": "Bean", "category": "main food", "url": "https://i.ibb.co/M7f6Lfh/bean.jpg" },
     { "name": "Corn", "category": "main food", "url": "https://i.ibb.co/qJq5rYq/corn.jpg" },
